@@ -1,1 +1,3 @@
-alert('This works!!')
+alert('This works!!');
+
+outputResult(10, '');
